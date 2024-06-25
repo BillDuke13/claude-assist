@@ -76,11 +76,6 @@ build/
 # Ignore compiled TypeScript files
 *.tsbuildinfo
 
-# Ignore other generated files
-fresh.gen.ts
-tailwind.config.js
-tailwind.config.ts
-
 # Miscellaneous
 *.swp
 *~
