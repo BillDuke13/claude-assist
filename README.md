@@ -14,7 +14,7 @@ ClaudeAssist is an AI-powered assistant application built with Fresh, a next-gen
 1. Ensure you have Deno installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/your-username/claude-assist.git
+   git clone https://github.com/BillDuke13/claude-assist.git
    cd claude-assist
    ```
 3. Set up your environment variables:
